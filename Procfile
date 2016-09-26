@@ -1,1 +1,1 @@
-web: java -jar target/dependency/webapp-runner.jar --port 8099 target/Holt-0.0.1-SNAPSHOT.war
+web: java -jar target/dependency/webapp-runner.jar --port $PORT target/Holt-0.0.1-SNAPSHOT.war
